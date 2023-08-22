@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 320px;
+}
+
+.square {
+    border: none;
+    width: 20px;
+    height: 20px;
+}
